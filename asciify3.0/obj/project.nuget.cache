@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8DCE7gv7lGQK8YFgdKEAmNKLcD4F/q1cO1oHmEbWABB8oRFniWdKEtij3c29M2CX1gT/6uUrr03zE+Rd3yEBdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cockus fattus\\OneDrive\\Desktop\\AsciitizeFinal2.0\\asciifyCurrent\\asciify3.0\\asciify3.0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cockus fattus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

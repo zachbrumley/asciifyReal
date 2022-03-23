@@ -1,0 +1,88 @@
+C:\Users\cockus fattus\OneDrive\Desktop\asciify3.0\asciify3.0\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\cockus fattus\OneDrive\Desktop\asciify3.0\asciify3.0\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\cockus fattus\OneDrive\Desktop\asciify3.0\asciify3.0\obj\Debug\net5.0-windows\asciify3.0_MarkupCompile.cache
+C:\Users\cockus fattus\OneDrive\Desktop\asciify3.0\asciify3.0\obj\Debug\net5.0-windows\asciify3.0_MarkupCompile.lref
+C:\Users\cockus fattus\OneDrive\Desktop\asciify3.0\asciify3.0\obj\Debug\net5.0-windows\asciify3.0.csproj.AssemblyReference.cache
+C:\Users\cockus fattus\OneDrive\Desktop\asciify3.0\asciify3.0\bin\Debug\net5.0-windows\asciify3.0.exe
+C:\Users\cockus fattus\OneDrive\Desktop\asciify3.0\asciify3.0\bin\Debug\net5.0-windows\asciify3.0.deps.json
+C:\Users\cockus fattus\OneDrive\Desktop\asciify3.0\asciify3.0\bin\Debug\net5.0-windows\asciify3.0.runtimeconfig.json
+C:\Users\cockus fattus\OneDrive\Desktop\asciify3.0\asciify3.0\bin\Debug\net5.0-windows\asciify3.0.runtimeconfig.dev.json
+C:\Users\cockus fattus\OneDrive\Desktop\asciify3.0\asciify3.0\bin\Debug\net5.0-windows\asciify3.0.dll
+C:\Users\cockus fattus\OneDrive\Desktop\asciify3.0\asciify3.0\bin\Debug\net5.0-windows\ref\asciify3.0.dll
+C:\Users\cockus fattus\OneDrive\Desktop\asciify3.0\asciify3.0\bin\Debug\net5.0-windows\asciify3.0.pdb
+C:\Users\cockus fattus\OneDrive\Desktop\asciify3.0\asciify3.0\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\cockus fattus\OneDrive\Desktop\asciify3.0\asciify3.0\obj\Debug\net5.0-windows\asciify3.0.g.resources
+C:\Users\cockus fattus\OneDrive\Desktop\asciify3.0\asciify3.0\obj\Debug\net5.0-windows\asciify3.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cockus fattus\OneDrive\Desktop\asciify3.0\asciify3.0\obj\Debug\net5.0-windows\asciify3.0.AssemblyInfoInputs.cache
+C:\Users\cockus fattus\OneDrive\Desktop\asciify3.0\asciify3.0\obj\Debug\net5.0-windows\asciify3.0.AssemblyInfo.cs
+C:\Users\cockus fattus\OneDrive\Desktop\asciify3.0\asciify3.0\obj\Debug\net5.0-windows\asciify3.0.csproj.CoreCompileInputs.cache
+C:\Users\cockus fattus\OneDrive\Desktop\asciify3.0\asciify3.0\obj\Debug\net5.0-windows\asciify3.0.dll
+C:\Users\cockus fattus\OneDrive\Desktop\asciify3.0\asciify3.0\obj\Debug\net5.0-windows\ref\asciify3.0.dll
+C:\Users\cockus fattus\OneDrive\Desktop\asciify3.0\asciify3.0\obj\Debug\net5.0-windows\asciify3.0.pdb
+C:\Users\cockus fattus\OneDrive\Desktop\asciify3.0\asciify3.0\obj\Debug\net5.0-windows\asciify3.0.genruntimeconfig.cache
+C:\Users\cockus fattus\OneDrive\Desktop\asciifyCurrent\asciify3.0\bin\Debug\net5.0-windows\asciify3.0.exe
+C:\Users\cockus fattus\OneDrive\Desktop\asciifyCurrent\asciify3.0\bin\Debug\net5.0-windows\asciify3.0.deps.json
+C:\Users\cockus fattus\OneDrive\Desktop\asciifyCurrent\asciify3.0\bin\Debug\net5.0-windows\asciify3.0.runtimeconfig.json
+C:\Users\cockus fattus\OneDrive\Desktop\asciifyCurrent\asciify3.0\bin\Debug\net5.0-windows\asciify3.0.runtimeconfig.dev.json
+C:\Users\cockus fattus\OneDrive\Desktop\asciifyCurrent\asciify3.0\bin\Debug\net5.0-windows\asciify3.0.dll
+C:\Users\cockus fattus\OneDrive\Desktop\asciifyCurrent\asciify3.0\bin\Debug\net5.0-windows\ref\asciify3.0.dll
+C:\Users\cockus fattus\OneDrive\Desktop\asciifyCurrent\asciify3.0\bin\Debug\net5.0-windows\asciify3.0.pdb
+C:\Users\cockus fattus\OneDrive\Desktop\asciifyCurrent\asciify3.0\obj\Debug\net5.0-windows\asciify3.0.csproj.AssemblyReference.cache
+C:\Users\cockus fattus\OneDrive\Desktop\asciifyCurrent\asciify3.0\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\cockus fattus\OneDrive\Desktop\asciifyCurrent\asciify3.0\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\cockus fattus\OneDrive\Desktop\asciifyCurrent\asciify3.0\obj\Debug\net5.0-windows\asciify3.0_MarkupCompile.cache
+C:\Users\cockus fattus\OneDrive\Desktop\asciifyCurrent\asciify3.0\obj\Debug\net5.0-windows\asciify3.0_MarkupCompile.lref
+C:\Users\cockus fattus\OneDrive\Desktop\asciifyCurrent\asciify3.0\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\cockus fattus\OneDrive\Desktop\asciifyCurrent\asciify3.0\obj\Debug\net5.0-windows\asciify3.0.g.resources
+C:\Users\cockus fattus\OneDrive\Desktop\asciifyCurrent\asciify3.0\obj\Debug\net5.0-windows\asciify3.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cockus fattus\OneDrive\Desktop\asciifyCurrent\asciify3.0\obj\Debug\net5.0-windows\asciify3.0.AssemblyInfoInputs.cache
+C:\Users\cockus fattus\OneDrive\Desktop\asciifyCurrent\asciify3.0\obj\Debug\net5.0-windows\asciify3.0.AssemblyInfo.cs
+C:\Users\cockus fattus\OneDrive\Desktop\asciifyCurrent\asciify3.0\obj\Debug\net5.0-windows\asciify3.0.csproj.CoreCompileInputs.cache
+C:\Users\cockus fattus\OneDrive\Desktop\asciifyCurrent\asciify3.0\obj\Debug\net5.0-windows\asciify3.0.dll
+C:\Users\cockus fattus\OneDrive\Desktop\asciifyCurrent\asciify3.0\obj\Debug\net5.0-windows\ref\asciify3.0.dll
+C:\Users\cockus fattus\OneDrive\Desktop\asciifyCurrent\asciify3.0\obj\Debug\net5.0-windows\asciify3.0.pdb
+C:\Users\cockus fattus\OneDrive\Desktop\asciifyCurrent\asciify3.0\obj\Debug\net5.0-windows\asciify3.0.genruntimeconfig.cache
+C:\Users\getti\Downloads\AsciitizeFinal2.0\asciifyCurrent\asciify3.0\bin\Debug\net5.0-windows\asciify3.0.exe
+C:\Users\getti\Downloads\AsciitizeFinal2.0\asciifyCurrent\asciify3.0\bin\Debug\net5.0-windows\asciify3.0.deps.json
+C:\Users\getti\Downloads\AsciitizeFinal2.0\asciifyCurrent\asciify3.0\bin\Debug\net5.0-windows\asciify3.0.runtimeconfig.json
+C:\Users\getti\Downloads\AsciitizeFinal2.0\asciifyCurrent\asciify3.0\bin\Debug\net5.0-windows\asciify3.0.runtimeconfig.dev.json
+C:\Users\getti\Downloads\AsciitizeFinal2.0\asciifyCurrent\asciify3.0\bin\Debug\net5.0-windows\asciify3.0.dll
+C:\Users\getti\Downloads\AsciitizeFinal2.0\asciifyCurrent\asciify3.0\bin\Debug\net5.0-windows\ref\asciify3.0.dll
+C:\Users\getti\Downloads\AsciitizeFinal2.0\asciifyCurrent\asciify3.0\bin\Debug\net5.0-windows\asciify3.0.pdb
+C:\Users\getti\Downloads\AsciitizeFinal2.0\asciifyCurrent\asciify3.0\obj\Debug\net5.0-windows\asciify3.0.csproj.AssemblyReference.cache
+C:\Users\getti\Downloads\AsciitizeFinal2.0\asciifyCurrent\asciify3.0\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\getti\Downloads\AsciitizeFinal2.0\asciifyCurrent\asciify3.0\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\getti\Downloads\AsciitizeFinal2.0\asciifyCurrent\asciify3.0\obj\Debug\net5.0-windows\asciify3.0_MarkupCompile.cache
+C:\Users\getti\Downloads\AsciitizeFinal2.0\asciifyCurrent\asciify3.0\obj\Debug\net5.0-windows\asciify3.0_MarkupCompile.lref
+C:\Users\getti\Downloads\AsciitizeFinal2.0\asciifyCurrent\asciify3.0\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\getti\Downloads\AsciitizeFinal2.0\asciifyCurrent\asciify3.0\obj\Debug\net5.0-windows\asciify3.0.g.resources
+C:\Users\getti\Downloads\AsciitizeFinal2.0\asciifyCurrent\asciify3.0\obj\Debug\net5.0-windows\asciify3.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\getti\Downloads\AsciitizeFinal2.0\asciifyCurrent\asciify3.0\obj\Debug\net5.0-windows\asciify3.0.AssemblyInfoInputs.cache
+C:\Users\getti\Downloads\AsciitizeFinal2.0\asciifyCurrent\asciify3.0\obj\Debug\net5.0-windows\asciify3.0.AssemblyInfo.cs
+C:\Users\getti\Downloads\AsciitizeFinal2.0\asciifyCurrent\asciify3.0\obj\Debug\net5.0-windows\asciify3.0.csproj.CoreCompileInputs.cache
+C:\Users\getti\Downloads\AsciitizeFinal2.0\asciifyCurrent\asciify3.0\obj\Debug\net5.0-windows\asciify3.0.dll
+C:\Users\getti\Downloads\AsciitizeFinal2.0\asciifyCurrent\asciify3.0\obj\Debug\net5.0-windows\ref\asciify3.0.dll
+C:\Users\getti\Downloads\AsciitizeFinal2.0\asciifyCurrent\asciify3.0\obj\Debug\net5.0-windows\asciify3.0.pdb
+C:\Users\getti\Downloads\AsciitizeFinal2.0\asciifyCurrent\asciify3.0\obj\Debug\net5.0-windows\asciify3.0.genruntimeconfig.cache
+C:\Users\cockus fattus\OneDrive\Desktop\AsciitizeFinal2.0\asciifyCurrent\asciify3.0\bin\Debug\net5.0-windows\asciify3.0.exe
+C:\Users\cockus fattus\OneDrive\Desktop\AsciitizeFinal2.0\asciifyCurrent\asciify3.0\bin\Debug\net5.0-windows\asciify3.0.deps.json
+C:\Users\cockus fattus\OneDrive\Desktop\AsciitizeFinal2.0\asciifyCurrent\asciify3.0\bin\Debug\net5.0-windows\asciify3.0.runtimeconfig.json
+C:\Users\cockus fattus\OneDrive\Desktop\AsciitizeFinal2.0\asciifyCurrent\asciify3.0\bin\Debug\net5.0-windows\asciify3.0.runtimeconfig.dev.json
+C:\Users\cockus fattus\OneDrive\Desktop\AsciitizeFinal2.0\asciifyCurrent\asciify3.0\bin\Debug\net5.0-windows\asciify3.0.dll
+C:\Users\cockus fattus\OneDrive\Desktop\AsciitizeFinal2.0\asciifyCurrent\asciify3.0\bin\Debug\net5.0-windows\ref\asciify3.0.dll
+C:\Users\cockus fattus\OneDrive\Desktop\AsciitizeFinal2.0\asciifyCurrent\asciify3.0\bin\Debug\net5.0-windows\asciify3.0.pdb
+C:\Users\cockus fattus\OneDrive\Desktop\AsciitizeFinal2.0\asciifyCurrent\asciify3.0\obj\Debug\net5.0-windows\asciify3.0.csproj.AssemblyReference.cache
+C:\Users\cockus fattus\OneDrive\Desktop\AsciitizeFinal2.0\asciifyCurrent\asciify3.0\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\cockus fattus\OneDrive\Desktop\AsciitizeFinal2.0\asciifyCurrent\asciify3.0\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\cockus fattus\OneDrive\Desktop\AsciitizeFinal2.0\asciifyCurrent\asciify3.0\obj\Debug\net5.0-windows\asciify3.0_MarkupCompile.cache
+C:\Users\cockus fattus\OneDrive\Desktop\AsciitizeFinal2.0\asciifyCurrent\asciify3.0\obj\Debug\net5.0-windows\asciify3.0_MarkupCompile.lref
+C:\Users\cockus fattus\OneDrive\Desktop\AsciitizeFinal2.0\asciifyCurrent\asciify3.0\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\cockus fattus\OneDrive\Desktop\AsciitizeFinal2.0\asciifyCurrent\asciify3.0\obj\Debug\net5.0-windows\asciify3.0.g.resources
+C:\Users\cockus fattus\OneDrive\Desktop\AsciitizeFinal2.0\asciifyCurrent\asciify3.0\obj\Debug\net5.0-windows\asciify3.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cockus fattus\OneDrive\Desktop\AsciitizeFinal2.0\asciifyCurrent\asciify3.0\obj\Debug\net5.0-windows\asciify3.0.AssemblyInfoInputs.cache
+C:\Users\cockus fattus\OneDrive\Desktop\AsciitizeFinal2.0\asciifyCurrent\asciify3.0\obj\Debug\net5.0-windows\asciify3.0.AssemblyInfo.cs
+C:\Users\cockus fattus\OneDrive\Desktop\AsciitizeFinal2.0\asciifyCurrent\asciify3.0\obj\Debug\net5.0-windows\asciify3.0.csproj.CoreCompileInputs.cache
+C:\Users\cockus fattus\OneDrive\Desktop\AsciitizeFinal2.0\asciifyCurrent\asciify3.0\obj\Debug\net5.0-windows\asciify3.0.dll
+C:\Users\cockus fattus\OneDrive\Desktop\AsciitizeFinal2.0\asciifyCurrent\asciify3.0\obj\Debug\net5.0-windows\ref\asciify3.0.dll
+C:\Users\cockus fattus\OneDrive\Desktop\AsciitizeFinal2.0\asciifyCurrent\asciify3.0\obj\Debug\net5.0-windows\asciify3.0.pdb
+C:\Users\cockus fattus\OneDrive\Desktop\AsciitizeFinal2.0\asciifyCurrent\asciify3.0\obj\Debug\net5.0-windows\asciify3.0.genruntimeconfig.cache

@@ -1,0 +1,38 @@
+﻿<Window x:Class="asciify3._0.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:asciify3._0"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Menu x:Name="mnuOpen" HorizontalAlignment="Left" Height="50" Margin="0,10,0,0" VerticalAlignment="Top" Width="107">
+            <MenuItem x:Name="mitOpen" Background="White" Height="36" Width="91" Header="File">
+                <MenuItem x:Name="mitOpenFile" Height="54" Width="200" Header="Open File" Click="mitOpenFile_Click"/>
+            </MenuItem>
+        </Menu>
+        <Image x:Name="imgMain" HorizontalAlignment="Left" Height="235" Margin="10,45,0,0" VerticalAlignment="Top" Width="263"/>
+        <ListBox x:Name="lstPixels" HorizontalAlignment="Left" Height="273" Margin="299,45,0,0" VerticalAlignment="Top" Width="128"/>
+        <Label Content="Pixel Data&#xD;&#xA;" HorizontalAlignment="Left" Margin="299,-3,0,0" VerticalAlignment="Top" Height="51" Width="128" FontSize="25"/>
+        <Label x:Name="lblAscii" Content="Ascii&#xD;&#xA;" HorizontalAlignment="Left" Height="45" Margin="445,-5,0,0" VerticalAlignment="Top" Width="141" FontSize="25"/>
+        <Label x:Name="lblSourceImage" Content="Source Image&#xD;&#xA;" HorizontalAlignment="Left" Margin="101,0,0,0" VerticalAlignment="Top" Height="45" Width="184" FontSize="25"/>
+        <Button x:Name="btnConvertToAscii" Content="Convert Image&#xD;&#xA;" Margin="34,304,0,0" FontSize="20" Click="btnConvertToAscii_Click" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtKernelWidth" Text="" TextWrapping="Wrap" Margin="140,366,0,0" RenderTransformOrigin="-0.165,0.332" HorizontalAlignment="Left" VerticalAlignment="Top" Width="60" Height="25">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="-1" ScaleX="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="180"/>
+                    <TranslateTransform Y="10.416"/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+
+        </TextBox>
+        <TextBox x:Name="txtKernelHeight" TextWrapping="Wrap" Margin="363,372,0,0" RenderTransformOrigin="0.557,1.642" VerticalAlignment="Top" HorizontalAlignment="Left" Width="60" Height="25" />
+        <Label Content="Kernel Width&#xD;&#xA;" Margin="34,374,669,2" RenderTransformOrigin="0.495,0.467" Width="97" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <Label Content="Kernel Height&#xD;&#xA;" Margin="276,366,0,0" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+        <TextBox x:Name="txtAscii1" Text="TextBox" TextWrapping="NoWrap" Margin="432,45,15,10" IsTabStop="False" FontFamily="Courier New" FontSize="8"/>
+
+    </Grid>
+</Window>
